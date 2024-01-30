@@ -1,0 +1,100 @@
+{
+  "posts": [
+    {
+      "id": "b1391fde-0fa2-4085-a755-a55a2c941fdb",
+      "title": "qwerty`",
+      "body": "ytrewq"
+    },
+    {
+      "id": "ef40676f-031f-478d-b121-dfd3e0a7e93c",
+      "title": "hello vikram",
+      "body": "how are you"
+    }
+  ],
+  "superheros": [
+    {
+      "id": 1,
+      "name": "BatMan",
+      "profession":"doctor",
+      "age":"26"
+    },
+    {
+      "id": 2,
+      "name": " vikram",
+      "profession":"lawyer",
+      "age":"26"
+
+      
+    },
+    {
+      "id": 3,
+      "name": "belly woman",
+      "profession":"engineer",
+      "age":"26"
+
+    },
+    {
+      "id": 4,
+      "name": "billy batson",
+      "profession":"software",
+      "age":"26"
+
+      
+    },
+    {
+      "id": 5,
+      "name": "venkatesh",
+      "profession":"doctor",
+      "age":"26"
+    },
+    {
+      "id": 6,
+      "name": " srinu",
+      "profession":"lawyer",
+      "age":"26"
+
+    },
+    {
+      "id": 7,
+      "name": "Ravi",
+      "profession":"engineer",
+      "age":"26"
+
+    },
+    {
+      "id": 8,
+      "name": "Raju",
+      "profession":"software",
+      "age":"26"
+      
+    }
+  ],
+  "friends": [
+    {
+      "id": 1,
+      "name": "Vikram",
+      "title":"heloo",
+      "body":"how are you",
+      "profession":"none",
+      "gender":"male"
+
+    },
+    {
+      "id": 2,
+      "name": "Rakesh ",
+      "title":"heloo",
+      "body":"how are you",
+      "profession":"none",
+      "gender":"male"
+    },
+    {
+      "id": 3,
+      "name": "Laddu",
+      "title":"heloo",
+      "body":"how are you",
+      "profession":"none",
+      "gender":"male"
+
+    }
+  ]
+}

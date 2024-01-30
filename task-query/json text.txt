@@ -1,0 +1,36 @@
+"superheros": [
+        {
+          "id": 1,
+          "name": "BatMan",
+          "alterEgo": "Bruce wayne"
+        },
+        {
+          "id": 2,
+          "name": "Superman vikram",
+          "alterEgo": "Clark Kent"
+        },
+        {
+          "id": 3,
+          "name": "Wonder woman22",
+          "alterEgo": "Princess Diana"
+        },
+        {
+          "id": 4,  
+          "name": "billy batson",
+          "alterEgo": "shazam"
+        }
+      ],
+      "friends": [
+        {
+          "id": 1,
+          "name": "Vikram"
+        },
+        {
+          "id": 2,
+          "name": "Rakesh "
+        },
+        {
+          "id": 3,
+          "name": "Laddu"
+        }
+      ]
