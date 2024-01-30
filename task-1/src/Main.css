@@ -1,0 +1,131 @@
+.App{
+  padding: 10px;
+  margin:10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.horizontal{
+  width: 80%;
+  margin:2px solid grey;
+  padding: 1px;
+  background-color: lightblue;
+  border: none;
+}
+
+.default-button{
+  height:48px;
+  width:150px;
+  background-color: grey;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  font-weight: 500;
+  font-size: 18px;
+  margin:8px;
+}
+
+.default-button:hover{
+  background-color: brown;
+  height: 60px;
+}
+
+.second-button{
+  height:48px;
+  width:150px;
+  background-color: blue;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  font-weight: 500;
+  font-size: 18px;
+  margin-left: 8px;
+}
+
+.second-button:hover{
+  background-color: blueviolet;
+  height: 60px;
+}
+
+
+.label-item{
+  display: inline-block;
+}
+
+.items{
+  cursor: pointer;
+  padding: 5px;
+  margin-top: 2px;
+}
+
+.error{
+  color: brown;
+  font-size: 18px;
+  font-family: Roboto;
+  margin: 2px;
+}
+
+.react-select{
+  width: 30%;
+}
+
+.list-items{
+  list-style: none;
+  cursor: pointer;
+  padding-bottom: 5px;
+
+}
+
+.react-select{
+  width: 100%;
+}
+
+.user-details{
+  padding: 20px 30px;
+  /* min-width: 180%; */
+}
+.para{
+  padding: 8px;
+  color: cadetblue;
+}
+
+
+/* DummyMultiple */
+
+.Multiselect-container{
+  width: 17rem;
+  border: 1px solid black;
+  background-color: white;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.Multiselect-container span{
+  margin-right: 10px;
+  background-color: lightgrey;
+  padding: 5px;
+}
+
+.input-select{
+  /* width: 120px; */
+  padding: 12px;
+  /* border: 1px solid black; */
+  border-radius: 5px;
+  outline: none;
+  border: none;
+  display: block;
+  margin: 5px;
+  /* border: 0; */
+  /* outline: none; */
+}
+.delete-btn{
+  background-color: inherit;
+  border: none;
+}
+
+span{
+  padding: 5px;
+  margin-top: 5px;
+}
